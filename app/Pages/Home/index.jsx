@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import Helmet from "react-helmet";
-import Page from "../Components/Page";
+import Page from "../../Components/Page";
 
 const Home = () => {
   useEffect(() => {
